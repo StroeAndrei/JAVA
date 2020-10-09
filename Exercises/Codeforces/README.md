@@ -6,4 +6,4 @@ Each solution in .java files was verified and accepted on the codeforces website
 
 The TextForExercises.txt contains the text for each exercise.
 
-Please visit [https://www.codeforces.com/] for more details. It is a great website.
+Please visit https://www.codeforces.com/ for more details. It is a great website.
